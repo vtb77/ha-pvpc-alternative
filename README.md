@@ -1,4 +1,4 @@
-# Home Assistant PVPC Hourly Pricing (alternative)
+# Home Assistant PVPC Hourly Pricing Alternative
 
 Spain electricity hourly pricing (PVPC) alternative
 
@@ -49,4 +49,4 @@ See the [LICENSE](LICENSE) file for more information.
 
 ## 📖 Documentation
 
-Official repository: [https://github.com/vtb77/ha-pvpc-custom-alternative](https://github.com/vtb77/ha-pvpc-custom-alternative)
+Official repository: [https://github.com/vtb77/ha-pvpc-alternative](https://github.com/vtb77/ha-pvpc-alternative)
