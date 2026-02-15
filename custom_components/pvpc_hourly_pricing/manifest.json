@@ -5,7 +5,6 @@
   "codeowners": ["@vtb77"],
   "config_flow": true,
   "documentation": "https://github.com/vtb77/ha-pvpc-alternative",
-  "integration_type": "service",
   "dependencies": [],
   "iot_class": "cloud_polling",
   "requirements": []
