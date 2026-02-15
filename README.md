@@ -24,7 +24,7 @@ Custom integration for Home Assistant that retrieves the PVPC (Voluntary Price f
 3. Add this repository as a Custom Repository in HACS:
    - **URL:** `https://github.com/vtb77/ha-pvpc-alternative`
    - **Category:** `Integration`
-4. Search for the **Home Assistant PVPC Hourly Pricing Updated** integration in HACS and click **Install**.
+4. Search for the **Spain electricity hourly pricing (PVPC) alternative** integration in HACS and click **Install**.
 5. Restart Home Assistant.
 6. Configure the sensors via **Settings → Devices & Integrations**.
 7. Search for the **Spain electricity hourly pricing (PVPC) alternative** and click **Install**.
